@@ -1,0 +1,151 @@
+body{
+    background-color:#000000;
+}
+.header-icon
+{
+    width: auto;
+    height: 50px;
+
+}
+.nav-list
+{
+font-family:monospace;
+list-style-type: none;
+}
+.nav-list li a
+{
+    text-decoration:none;
+    color:rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+.btn h3:hover
+{
+color:rgb(199, 87, 205);
+}
+
+header
+{
+    display:flex;
+    justify-content:space-between
+}
+.nav-list li
+{
+    display:inline-block
+}
+
+.spotify-frame
+{
+    background-image: url(../spot/sky.webp);
+   
+   background-repeat:unset; width:auto;
+    height:600px
+}
+.spotify-frame-phone-png
+{
+    width:auto;
+    height:450px;
+    border-radius: 10px;
+}
+.spotify-frame-inside-2
+{
+    font-family:monospace;
+    font-weight:bold;
+    font-size:50px;
+    color:aliceblue
+}
+.spotify-frame
+{
+    
+    display: flex;
+    flex-direction:row;
+    justify-content:space-evenly; 
+}
+.spotify-frame-inside-1
+{
+    margin-top: 152px;
+}
+.spotify-frame-inside-2
+{
+    margin-top: 160px
+}
+.btn-link
+{
+    border-radius:10px;
+}
+.getspotify
+{
+    text-decoration:non;
+}
+.btn-link:hover
+{
+     background-color:#E533AA;
+}
+.btn-link
+{
+    color:black
+}
+.space-center
+{
+    background-color: rgb(0, 0, 0);
+     width: auto;
+     height:130px;
+     color:rgb(244, 232, 232)
+}
+.spotify-frame-2-inside-1
+{
+    background-image:url(../spot/space-girl.jpg);
+    width:auto;
+    height:160px;
+}
+.text-space
+{
+    display:flex;
+    justify-content:center
+}
+.foot-head
+{
+color:rgb(140, 135, 135);
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.footer-inside-1
+{
+    display: flex;
+    justify-content:space-evenly
+}
+
+.list-1 h3,.list-2 h3,.list-3 h3,.list-4 h3
+{
+ font-family: monospace;
+ display: flex;
+}
+.icon-i
+{
+    margin-top: 10px;
+    width: auto;
+    background-color: rgb(242, 248, 253);
+    width: auto;
+    height:50px;
+    border-radius: 21px;
+}
+.list-1 a ,.list-2 a ,.list-3 a,.list-4 a
+{
+    text-decoration: non;
+}
+.end-words
+{
+    display: flex;
+    justify-content:space-evenly
+}
+.main-footer li
+{
+    display: inline-block;
+}
+
+.btn:hover
+{
+color:rgb(199, 87, 205);
+}
+.footer-inside-1 h3:hover
+{
+    color:rgb(199, 87, 205);
+}
